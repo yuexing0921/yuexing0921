@@ -1,8 +1,10 @@
 ### Hi there 
 
-zhihu: https://www.zhihu.com/column/c_1139115654920716288
-jujin: https://juejin.cn/user/3438928103484558/posts
-yuque: https://www.yuque.com/yuexing0921/blog
+- zhihu: https://www.zhihu.com/column/c_1139115654920716288
+
+- jujin: https://juejin.cn/user/3438928103484558/posts
+
+- yuque: https://www.yuque.com/yuexing0921/blog
 
 <!--
 **yuexing0921/yuexing0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
