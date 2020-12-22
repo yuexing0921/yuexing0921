@@ -1,5 +1,7 @@
 ### Hi there 
 
+<img src="https://github-readme-stats.vercel.app/api?username=yuexing0921&show_icons=true&theme=radical" />
+
 - zhihu: https://www.zhihu.com/column/c_1139115654920716288
 
 - jujin: https://juejin.cn/user/3438928103484558/posts
